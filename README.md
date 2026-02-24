@@ -6,7 +6,7 @@ This project, **Part A: Invoice**, is the first in a series dedicated to practic
 The core functionality models an invoice composed of multiple `LineItem` objects, where each line item calculates its subtotal based on a specific `Product` and quantity.
 
 ## 🎯 Design Process & Deliverables
-This lab demonstrates the following stages of the software engineering process:
+This project demonstrates the following stages of the software engineering process:
 
 1.  **Requirements Analysis:** Deriving core business needs from a task description.
 2.  **Class Derivation (Candidate List):** Identifying necessary classes from the requirements documents.
