@@ -1,7 +1,7 @@
 # Software Engineering Process: Invoice Model Design (Part A)
 
 ## 💡 Overview
-This project, **Part A: Invoice**, is the first assignment in a series dedicated to practicing the complete Software Engineering design process. The objective is to analyze requirements for an invoice application and translate those requirements into a robust Object-Oriented design.
+This project, **Part A: Invoice**, is the first in a series dedicated to practicing the complete Software Engineering design process. The objective is to analyze requirements for an invoice application and translate those requirements into a robust Object-Oriented design.
 
 The core functionality models an invoice composed of multiple `LineItem` objects, where each line item calculates its subtotal based on a specific `Product` and quantity.
 
